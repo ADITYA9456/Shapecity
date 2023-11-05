@@ -1,0 +1,111 @@
+body{
+    background: no-repeat;
+    background-image: url(hj.jpg);
+    background-size: 1700px;
+
+
+}
+.istc{
+    font-size: 1rem;
+}
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+h1{
+    color: aliceblue;
+    font-size: 80px;
+    padding: 2rem;
+}
+
+
+.links{
+   display: flex;
+  
+   /* justify-content: space-evenly; */
+}
+*
+{
+    color: white;
+    padding: 0.6rem ;
+}
+.sam{
+    padding: 0.5rem;
+background-color: hotpink;
+box-shadow: 2px 2px 5px purple;
+border-radius: 6px;
+}
+.sam:hover{
+    background-color: rgb(56, 220, 53);
+    color: rgb(0, 0, 0);
+}
+#b1{
+    position: absolute;
+margin-left: 11rem;
+}
+#b2{
+    position: absolute;
+    margin-left: 46rem;
+}
+#b3{
+    margin-left: 79rem;
+}
+.C {
+    /* margin: 100px; */
+    /* padding: 10px 10px; */
+    color: aqua;
+    border-radius: 10px
+} 
+.D{
+    margin:10px;
+    padding: 10px 10px;
+    /* border: 2px solid gray; */
+}
+.D input{
+    padding: 10px;
+    width:  300px;
+    border-radius: 5px;
+    color: black;
+}
+.P{
+    width: 100px;
+    padding: 5px;
+    /* margin: 100px 100px; */
+    color: turquoise;
+    background-color:palevioletred ;
+}
+.P:hover{
+    color: rgb(250, 142, 10);
+    background-color: whitesmoke;
+}
+.bk{
+    background-color: rgb(156, 255, 7);
+    color: rgb(0, 0, 1);
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    padding: 2px;
+    border-radius: 0.3rem;
+}
+.bk:hover{
+    background-color: rgb(178, 53, 220);
+    color: rgb(255, 255, 255);
+}
+.dmbl{
+margin-left: 1.3rem;
+    display: flex;
+    gap: 8rem;
+
+}
+.ins{
+    width: 400px;
+    height: 400px;
+}
+.footer {
+    padding: 50px 15px;
+    background-color: #b4e20d;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    margin-top: 1.5rem;
+  }

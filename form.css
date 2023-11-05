@@ -1,0 +1,42 @@
+
+body {
+    color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+    background: url(gym.jpg) no-repeat;
+    background-size: 1700px;
+    
+}
+
+
+.P{
+    width: 100px;
+    padding: 5px;
+    margin: 100px 100px;
+    color: turquoise;
+    background-color:palevioletred ;
+}
+.P:hover{
+    color: rgb(250, 142, 10);
+    background-color: whitesmoke;
+}
+
+.bt{
+    width: 50px;
+    padding: 5px;
+    margin: 2px;
+    color: rgb(224, 64, 64);
+    background-color:rgb(112, 216, 207) ;
+}
+.bt:hover{
+    color: rgb(17, 18, 18);
+    background-color: whitesmoke;
+    
+}
+.footer {
+    padding: 50px 15px;
+    background-color: #b4e20d;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+  }
